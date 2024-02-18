@@ -1,0 +1,7 @@
+#+title: Introduction to Game Development
+
+** References
+
+- [[https://fennel-lang.org/reference][Fennel Language Reference]]
+- [[https://learning.edx.org/course/course-v1:HarvardX+CS50G+Games/block-v1:HarvardX+CS50G+Games+type@sequential+block@e34815b879f345779a17d99fad036ba5/block-v1:HarvardX+CS50G+Games+type@vertical+block@35781a23ed0e436eac9a9e6cc27b1b64][HarvardX CS50G]]
+- [[https://sr.ht/~benthor/absolutely-minimal-love2d-fennel/][Minimal Love2D Fennel Setup]]
